@@ -5,7 +5,7 @@
  * by masood kamandy-milne
  *
  * initiated: 2/20/21
- * last updated: 3/11/21
+ * last updated: 3/16/21
  *
  * note: this is a port of my iOS app oblique for processing.
  * Whereas the focus with the iOS oblique was realtime image
@@ -82,7 +82,9 @@ void setup() {
   noStroke();
 
   imageView = createGraphics(width-UI_WIDTH*2, height, P2D); // This is just for layout.
-  previewImage = loadImage("mandrill.png");
+  previewImage = loadImage("Moon_Crescent_-_False_Color_Mosaic.jpg");
+  
+  previewImage = resizeToFit(previewImage);
 
   setupGraphicsPipeline();
 
