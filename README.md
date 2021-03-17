@@ -57,7 +57,7 @@ Here's a great TLDR of GPL3 ([Source](https://gist.github.com/kn9ts/cbe95340d29f
 
 ## Acknowledgements
 
-OfP was developed in Prof. Jennifer Jacobs course *Computational Systems for Visual Art and Design* in UC Santa Barbara's Media Art & Technology course. I received generous feedback in this course from Prof. Jacobs, as well as my peers Ashley DelValle, Suriya Dakshina Murthy, and our TA, Stejara Iulia Dinulescu.
+OfP was developed in Prof. Jennifer Jacobs course *Computational Systems for Visual Art and Design* in UC Santa Barbara's Media Art & Technology department. I received generous feedback in this course from Prof. Jacobs, as well as my peers Ashley DelValle, Suriya Dakshina Murthy, and our TA, Stejara Iulia Dinulescu.
 
 Thank you to Adam Ferriss for helping get the shader chain up and running.
 
